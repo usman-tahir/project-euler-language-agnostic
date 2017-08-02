@@ -1,2 +1,2 @@
 # File specific (compiled files, cached files, etc.)
-*.javac
+**/*.class
